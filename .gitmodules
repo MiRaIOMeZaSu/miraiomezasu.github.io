@@ -1,0 +1,4 @@
+[submodule "fonteditor"]
+	path = fonteditor
+	url = https://github.com/MiRaIOMeZaSu/fonteditor.git
+	branch = gh-pages
